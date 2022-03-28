@@ -38,6 +38,7 @@ Az 1. prototipus 2022.02.26-án készült ami egy ciklusban vizsgálta mindkét 
 
 
 Forrás anyagok:
+
 https://www.101computing.net/pong-tutorial-using-pygame-getting-started/
 https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI/videos
 https://www.youtube.com/watch?v=NZde8Xt78Iw&t=1338s&ab_channel=Murtaza%27sWorkshop-RoboticsandAI
