@@ -14,7 +14,7 @@ A program irása közben rengeteg hiba keletkezet amit igyekeztünk kijavitani, 
 Rövid határidő
 -Rengeteg kód sor átlátása
 
--Egyik tagunknak nem állt rendelkezésére webkamera megoldás --> Telefon használata
+-Egyik tagunknak nem állt rendelkezésére webkamera megoldás --> Telefon kamerájának használata
 
 Szükségek eszközök:
 
