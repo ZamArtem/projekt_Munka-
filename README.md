@@ -7,7 +7,7 @@ Projekt célja: Egy régi klasszikus számítógépes játék modernizálása. A
 
 Problémák:
 
-A program irása közben rengeteg hiba keletkezet amit igyekeztünk kijavitani, a kezdeti prototipusok sajnálatos módon rengeteg memóriát fogyasztottak ezért újjab verziókat kellet létrehoznuk. A Pong nevű fáljon belül a 18. sorban a Videocapture-nél 0 helyett 1-2 -est írtunk ami nem vol sikeres mert a 0 az alapértelemzett kamera az 1 meg a kiegészítő kamera ezt nem tudván elégé sok időt kellet forditani arra, hogy rájöjjünk a problémára! A legnagyobb probléma az volt, hogy egy kész pongot és egy kézfelimerő rendszert egyesítsük, ami nem kis feladat.
+A program irása közben rengeteg hiba keletkezet amit igyekeztünk kijavitani, a kezdeti prototipusok sajnálatos módon rengeteg memóriát fogyasztottak ezért újjab verziókat kellet létrehoznuk. A Pong nevű fájlon belül a 18. sorban a Videocapture-nél 0 helyett 1-2 -est írtunk ami nem vol sikeres mert a 0 az alapértelemzett kamera az 1 meg a kiegészítő kamera ezt nem tudván elégé sok időt kellet forditani arra, hogy rájöjjünk a problémára! A legnagyobb probléma az volt, hogy egy kész pongot és egy kézfelimerő rendszert egyesítsük, ami nem kis feladat.
 
 -Teljesene új, számunkra idegen könyvtárak használata, megértése
 
