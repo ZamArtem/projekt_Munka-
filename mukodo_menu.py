@@ -168,9 +168,7 @@ def jatek(ball):
     valtozo = True
     # camera
     mpDraw = mp.solutions.drawing_utils
-    #cap = cv2.VideoCapture(0)
-    #mpHands = mp.solutions.hands
-    #hands = mpHands.Hands()
+    
 
     pTime= 0
     cTime = 0
@@ -181,7 +179,7 @@ def jatek(ball):
             time.sleep(2)
             valtozo = True
 
-        # --- Main event loop
+    # --- Main event loop
         for event in pygame.event.get():  # User did something
             if event.type == pygame.QUIT:  # If user clicked close
                 carryOn = False  # Flag that we are done so we exit this loop
@@ -271,7 +269,7 @@ def jatek(ball):
         fps = 1/(cTime-pTime)
         pTime = cTime
         
-        #cv2.putText(img, str(int(fps)), (10,70), cv2.FONT_HERSHEY_PLAIN, 3,(255,0,255),3) #fps ki irasa
+        #cv2.putText(img, str(int(fps)), (10,70), cv2.FONT_HERSHEY_PLAIN, 3,(255,0,255),3) #ki irasa az fps-t
         cv2.line(img,(300,800),(300,0),(255,255,255),10)
 
         cv2.imshow("image", flipped)
